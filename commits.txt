@@ -1,0 +1,17 @@
+commit 4ec75c1c50dd0335844e50d3d30b5c13b323ac48
+Author: Carlos Serna <castmex95@gmail.com>
+Date:   Tue Mar 26 23:12:41 2019 -0600
+
+    Se corriegieron los errores ortograficos
+
+commit dacfb423c71ec3341c7047faee5fa11557263039
+Author: Carlos Serna <castmex95@gmail.com>
+Date:   Tue Mar 26 23:10:11 2019 -0600
+
+    Segunda version con gitignore
+
+commit 10f908cad07d18e62ad7d43812a371ef66a835c5
+Author: Carlos Serna <castmex95@gmail.com>
+Date:   Tue Mar 26 22:59:59 2019 -0600
+
+    Primera version de la pagina CBTis
